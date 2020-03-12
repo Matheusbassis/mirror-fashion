@@ -1,2 +1,2 @@
 # mirror-fashion
-Projeto da Disciplina de Frameworks de Desenvolvimento Web
+Projeto da disciplina de framewors de desenvolvimento web
